@@ -4,6 +4,6 @@ This repository is designed to calculate asian option values with different meth
 
 Monte carlo
 
-PDE (One dimension)
+FDM & PDE (One dimension)
 
 Moment matching
